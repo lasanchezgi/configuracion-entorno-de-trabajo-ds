@@ -1,0 +1,12 @@
+black
+invoke
+jupyter
+jupyterlab
+matplotlib
+nbdime
+numpy
+pandas
+plotly
+pyjanitor
+pyprojroot
+seaborn
